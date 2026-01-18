@@ -32,7 +32,7 @@ Usage
 
 Clone the repo:
 
-git clone https://github.com/yourusername/GoldenCrownTours.git
+git clone https://github.com/Sakshixa07/GoldenCrownTours.git
 
 
 Open index.html in a browser.
